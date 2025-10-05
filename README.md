@@ -92,7 +92,6 @@ See the [LICENSE](LICENSE) file for more information.
 ## 👤 Author
 **Bryan Heddle**  
 Mechatronics & AI Systems Engineering Student — *Western University*  
-Lead Software Engineer, Western Engineering Mars Rover Team  
 
 ---
 
