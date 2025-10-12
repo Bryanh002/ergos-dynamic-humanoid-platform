@@ -1,6 +1,8 @@
 # AI-Robot  
 ### A reinforcement-learning-driven humanoid with Jetson Orin Nano and smart servos
 
+<div style="text-align: center;"><img src="https://github.com/Bryanh002/AI-Robot/blob/main/Documentation/images/Robot_Image_1.PNG" /></div>
+
 ---
 
 ## 🧠 Overview
