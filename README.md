@@ -1,14 +1,14 @@
-# ERGOS: Embodied Reinforcement Gait Operating System
-### A reinforcement-learning-driven humanoid with Jetson Orin Nano and smart servos
-
-<div style="text-align: center;"><img src="https://github.com/Bryanh002/AI-Robot/blob/main/Documentation/images/Robot_Image_1.PNG" /></div>
+# ERGOS
+### Embodied Reinforcement Gait Operating System
 
 ---
 
 ## 🧠 Overview
-**AI-Robot** is an ongoing humanoid robotics project focused on developing **dynamic walking through reinforcement learning (RL)**. The goal is to create a robot capable of adapting to changing environments, starting with stable locomotion on flat terrain and eventually integrating **vision-based object detection** and **speech models** for natural interaction.
+The ERGOS (Embodied Reinforcement Gait Operating System) project is a low-cost, open-source platform designed for advanced dynamic humanoid robotics research. It serves as a ROS2-based control environment that integrates high-efficiency servo hardware with Reinforcement Learning (RL) techniques. The primary goal of ERGOS is to develop and optimize highly dynamic, stable gait patterns for bipedal systems, demonstrating sophisticated movement capabilities on an economical, self-contained hardware platform. Here is a photo of ERGOS's current design:
 
-This project represents an exploration into combining **AI control systems** with **physical robotics**, using RL to handle low-level motor control and a **language model** as the higher-level “brain” responsible for decision-making and communication.
+---
+
+<div style="text-align: center;"><img src="https://github.com/Bryanh002/AI-Robot/blob/main/Documentation/images/Robot_Image_1.PNG" /></div>
 
 ---
 
