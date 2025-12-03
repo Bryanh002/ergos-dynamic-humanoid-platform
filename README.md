@@ -1,6 +1,9 @@
-# ERGOS
-### Embodied Reinforcement Gait Operating System
+<p align="center">
+  <img src="[https://github.com/Bryanh002/AI-Robot/blob/main/Documentation/images/Robot_Image_1.PNG" alt="Description of the image](https://github.com/Bryanh002/ERGOS-Dynamic-Humanoid-Platform/blob/main/docs/images/ERGOS-ASCII-art.png)" width="600"/>
+  <br>
+</p>
 
+### Embodied Reinforcement Gait Operating System
 ---
 
 ## 🧠 Overview
