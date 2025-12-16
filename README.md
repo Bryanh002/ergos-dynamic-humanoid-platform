@@ -1,14 +1,20 @@
-# ERGOS
-### Embodied Reinforcement Gait Operating System
-
+```
+███████╗██████╗  ██████╗  ██████╗ ███████╗
+██╔════╝██╔══██╗██╔════╝ ██╔═══██╗██╔════╝
+█████╗  ██████╔╝██║  ███╗██║   ██║███████╗
+██╔══╝  ██╔══██╗██║   ██║██║   ██║╚════██║
+███████╗██║  ██║╚██████╔╝╚██████╔╝███████║
+╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝
+```
+### Embodied Reinforcement Gait Optimization System
 ---
 
 ## 🧠 Overview
-The ERGOS (Embodied Reinforcement Gait Operating System) project is a low-cost, open-source platform designed for advanced dynamic humanoid robotics research. It serves as a ROS2-based control environment that integrates high-efficiency servo hardware with Reinforcement Learning (RL) techniques. The primary goal of ERGOS is to develop and optimize highly dynamic, stable gait patterns for bipedal systems, demonstrating sophisticated movement capabilities on an economical, self-contained hardware platform. Here is a photo of ERGOS's current design:
+ERGOS is a low-cost, open-source platform designed for advanced dynamic humanoid robotics research. It serves as a ROS2-based control environment that integrates high-efficiency servo hardware with Reinforcement Learning (RL) techniques. The primary goal of ERGOS is to develop and optimize highly dynamic, stable gait patterns for bipedal systems, demonstrating sophisticated movement capabilities on an economical, self-contained hardware platform. Here is a photo of ERGOS's current design:
 
 
 <p align="center">
-  <img src="https://github.com/Bryanh002/AI-Robot/blob/main/Documentation/images/Robot_Image_1.PNG" alt="Description of the image" width="600"/>
+  <img src="https://github.com/Bryanh002/AI-Robot/blob/main/docs/images/Robot_Image_1.PNG" width="600"/>
   <br>
 </p>
 
