@@ -20,6 +20,18 @@ ERGOS is a low-cost, open-source platform designed for advanced dynamic humanoid
 
 ---
 
+## Repository Map
+
+- **Hardware**
+  - [`hardware/mechanical/`](hardware/mechanical/) — CAD, renders
+  - [`hardware/electrical/`](hardware/electrical/) — schematics, PCB, BOM
+- **Software**
+  - [`software/`](software/) — firmware, ROS 2 packages, tools, simulations
+- **Docs**
+  - [`docs/`](docs/) — BOM, images, datasheets
+
+---
+
 ## ⚙️ Features (Planned and In Progress)
 - **Dynamic Walking with Reinforcement Learning**
   - RL-based control for adaptive locomotion
