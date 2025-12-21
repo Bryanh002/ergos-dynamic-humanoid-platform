@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ROBOT_MOTHERBOARD.PcbDoc   12/1/2025  5:27:19 PM
+NCDrill File Report For: ROBOT_MOTHERBOARD.PcbDoc   12/16/2025  8:20:26 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : SIG1 to SIG2
@@ -8,8 +8,8 @@ ASCII Plated SlotHoles File : ROBOT_MOTHERBOARD-SlotHoles-Plated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             10        PTH        0.42inch (10.55mm)
-T2      15mil (0.381mm)                                           Round             714       PTH        71.28inch (1810.54mm)
+T1      12mil (0.3mm)                                             Round             10        PTH        0.42inch (10.55mm)
+T2      15mil (0.381mm)                                           Round             680       PTH        69.17inch (1756.96mm)
 T3      24mil (0.6mm)                                             Slot              2         PTH        0.61inch (15.43mm)
 T4      33mil (0.85mm)                                            Round             2         PTH        0.20inch (5.00mm)
 T5      39mil (0.99mm)                                            Round             8         PTH        2.42inch (61.35mm)
@@ -19,8 +19,8 @@ T8      42mil (1.07mm)                                            Round         
 T9      55mil (1.4mm)                                             Round             16        PTH        9.79inch (248.60mm)
 T10     63mil (1.6mm)                                             Round             16        PTH        6.21inch (157.73mm)
 T11     120mil (3.048mm)                                          Round             4         PTH        14.13inch (359.02mm)
-T12     177mil (4.5mm)                                            Round             2         PTH        0.35inch (8.89mm)
+T12     224mil (5.7mm)                                            Round             2         PTH        0.44inch (11.05mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              793
+Totals                                                                              759
 
 Total Processing Time (hh:mm:ss) : 00:00:00
